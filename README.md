@@ -1,16 +1,24 @@
-## Hi there 👋
+---
 
-<!--
-**HogRed/HogRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, World!
 
-Here are some ideas to get you started:
+I'm Joe Faith, an Assistant Professor at Harding University with a passion for teaching and a love for all things data! 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🏫 What I Teach:
+- R 📈
+- Python 🐍
+- Sports Analytics 🏀
+- Artificial Intelligence 🤖
+
+## 🎓 Education:
+- **Bachelors in Information Systems** from Harding University 🎓
+- **Masters in Information Systems** from Harding University 🎓
+- **Masters in Data Science** from Eastern University 📊
+- Currently pursuing a **Doctorate in AI/ML** at The George Washington University 🎓
+
+## 🏃‍♂️ Outside the Classroom:
+- Marathon and Half Marathon Runner 🏅
+- Weightlifting Enthusiast 🏋️‍♂️
+- Dog Dad to Winston 🐾
+
+---
