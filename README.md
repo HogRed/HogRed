@@ -5,10 +5,10 @@
 I'm Joe Faith, an Assistant Professor at Harding University with a passion for teaching and a love for all things data! 📊
 
 ## 👨‍🏫 What I Teach:
-- R 📈
-- Python 🐍
-- Sports Analytics 🏀
 - Artificial Intelligence 🤖
+- - Python 🐍
+- R 📈
+- Sports Analytics 🏀
 
 ## 🎓 Education:
 - **Bachelors in Information Systems** from Harding University 🎓
