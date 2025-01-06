@@ -6,7 +6,7 @@ I'm Joe Faith, an Assistant Professor at Harding University with a passion for t
 
 ## 👨‍🏫 What I Teach:
 - Artificial Intelligence 🤖
-- - Python 🐍
+- Python 🐍
 - R 📈
 - Sports Analytics 🏀
 
