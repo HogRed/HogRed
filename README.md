@@ -11,10 +11,10 @@ I'm Joe Faith, an Assistant Professor at Harding University with a passion for t
 - Sports Analytics 🏀
 
 ## 🎓 Education:
-- **Bachelors in Information Systems** from Harding University 🎓
-- **Masters in Information Systems** from Harding University 🎓
-- **Masters in Data Science** from Eastern University 📊
 - Currently pursuing a **Doctorate in AI/ML** at The George Washington University 🎓
+- **Masters in Data Science** from Eastern University 📊
+- **Masters in Information Systems** from Harding University 🎓
+- **Bachelors in Information Systems** from Harding University 🎓
 
 ## 🏃‍♂️ Outside the Classroom:
 - Marathon and Half Marathon Runner 🏅
