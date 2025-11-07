@@ -2,7 +2,7 @@
 
 # 👋 Hello, World!
 
-I'm Joe Faith, an Assistant Professor at Harding University with a passion for teaching and a love for all things data! 📊
+I'm Joe Faith, D.Eng., an Assistant Professor at Harding University with a passion for teaching and a love for all things data! 📊
 
 ## 👨‍🏫 What I Teach:
 - Artificial Intelligence 🤖
@@ -11,7 +11,7 @@ I'm Joe Faith, an Assistant Professor at Harding University with a passion for t
 - Sports Analytics 🏀
 
 ## 🎓 Education:
-- Currently pursuing a **Doctorate in AI/ML** at The George Washington University ✨
+- **Doctorate in AI/ML** at The George Washington University ✨
 - **Masters in Data Science** from Eastern University 📊
 - **Masters in Information Systems** from Harding University 📈
 - **Bachelors in Information Systems** from Harding University 🎓
