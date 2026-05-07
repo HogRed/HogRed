@@ -2,7 +2,7 @@
 
 # 👋 Hello, World!
 
-I'm Joe Faith, D.Eng., an Assistant Professor at Harding University with a passion for teaching and a love for all things data! 📊
+I'm Joe Faith, D.Eng., an Assistant Professor at Harding University with a passion for teaching and a love for all things AI and CS! 📊
 
 ## 👨‍🏫 What I Teach:
 - Artificial Intelligence 🤖
