@@ -6,9 +6,9 @@ I'm Joe Faith, D.Eng., an Assistant Professor at Harding University with a passi
 
 ## 👨‍🏫 What I Teach:
 - Artificial Intelligence 🤖
-- Python 🐍
-- R 📈
-- Sports Analytics 🏀
+- Data Structures 🧱
+- Machine Learning / Deep Learning 🧠
+- Operating Systems ⚙️
 
 ## 🎓 Education:
 - **Doctorate in AI/ML** at The George Washington University ✨
