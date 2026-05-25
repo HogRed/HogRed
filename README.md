@@ -6,8 +6,11 @@ I'm Joe Faith, D.Eng., an Assistant Professor at Harding University with a passi
 
 ## 👨‍🏫 What I Teach:
 - Artificial Intelligence 🤖
-- Data Structures 🧱
 - Machine Learning / Deep Learning 🧠
+- Computer Vision 👁️
+- Generative AI ✨
+- AI Ethics ⚖️
+- Data Structures 🧱
 - Operating Systems ⚙️
 
 ## 🎓 Education:
